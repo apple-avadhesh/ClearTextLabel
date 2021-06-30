@@ -1,7 +1,7 @@
 # ClearTextLabel
 Swift implementation of Clear Text effect on UILabel.
 
-<img src="https://github.com/apple-avadhesh/ClearTextLabel/blob/main/screenshot.png" width="280" height="480">
+<img src="https://github.com/apple-avadhesh/ClearTextLabel/blob/main/screenshot.png" width="276" height="598">
 
 
 ## ✅ Requirements
