@@ -8,6 +8,8 @@ Swift implementation of Clear Text effect on UILabel.
 - Swift 5.1+
 - iOS 11.0+
 
+[Testing Environment: Xcode 12.5]
+
 ## 👨‍💻 Installation
 
 #### SPM
